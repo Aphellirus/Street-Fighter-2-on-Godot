@@ -5,14 +5,12 @@
 This is a personal project to make street fighter 2 using the Godot Engine, i'll keep updating it with more characters, stages, moves, and so on!
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 To run it, you need the [Godot Engine 3.3.2](https://godotengine.org/download) or above.
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 Links with everything used in this project:
 <table>
