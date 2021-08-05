@@ -10,11 +10,9 @@ To run it, you need the [Godot Engine 3.3.2](https://godotengine.org/download) o
 Links with everything used in this project:
 <table>
   <tbody>
-    <td>
-        <ul>
-          <li><a href="https://godotengine.org">Godot Game Engine</a></li>
-          <li><a href="https://www.spriters-resource.com/snes/supersf2">Street Fighter 2 Assets</a></li>
-        </ul>
-      </td>
+       <ul>
+         <li><a href="https://godotengine.org">Godot Game Engine</a></li>
+         <li><a href="https://www.spriters-resource.com/snes/supersf2">Street Fighter 2 Assets</a></li>
+       </ul>
   </tbody>
 </table>
