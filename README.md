@@ -4,7 +4,7 @@
 
 This is a personal project to make street fighter 2 using the Godot Engine, i'll keep updating it with more characters, stages, moves, and so on!
 
-To run it, you need the [Godot Engine 3.3.2](https://godotengine.org) or above.
+To run it, you need the [Godot Engine 3.3.2](https://godotengine.org/download) or above.
 
 
 Links with everything used in this project:
@@ -12,8 +12,8 @@ Links with everything used in this project:
   <tbody>
     <td>
         <ul>
-          <li>item1</li>
-          <li>item2</li>
+          <li><a href="https://godotengine.org">Godot Game Engine</a></li>
+          <li><a href="https://www.spriters-resource.com/snes/supersf2">Street Fighter 2 Assets</a></li>
         </ul>
       </td>
   </tbody>
